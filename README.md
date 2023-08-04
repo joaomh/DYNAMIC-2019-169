@@ -1,0 +1,1 @@
+# dynamic-properties-of-structures-produced-with-additive-manufacturing
